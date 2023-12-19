@@ -33,7 +33,7 @@ html::-webkit-scrollbar{
   width: .8rem;
 }
 html::-webkit-scrollbar-track{
-  background: rgb(134, 232, 138);
+  background: rgb(251, 255, 251);
 }
 html::-webkit-scrollbar-thumb{
   background: #13631A;
@@ -455,7 +455,7 @@ header .navbar ul li a:hover{
   padding: 1rem 1.5rem;
   font-size: 2rem;
   background: #ffae00;
-  color: rgb(134, 232, 138);
+  color: rgb(9, 9, 9);
   border-radius: 5rem;
   transition: 1s linear;
   z-index: 1000;
