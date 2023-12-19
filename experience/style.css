@@ -21,7 +21,7 @@ body{
 }
 
 *::selection{
-  background: #13631A;
+  background: #006108;
   color: #fff;
 }
 
@@ -36,7 +36,7 @@ html::-webkit-scrollbar-track{
   background: rgb(235, 202, 245);
 }
 html::-webkit-scrollbar-thumb{
-  background: #420177;
+  background: #13631A;
 }
 
 /* navbar starts */
@@ -95,8 +95,8 @@ header .navbar ul li a{
 }
 header .navbar ul li a.active,
 header .navbar ul li a:hover{
-  color: #011aff;
-  border-bottom: .2rem solid #011aff;
+  color: #13631A;
+  border-bottom: .2rem solid #13631A;
   padding: .5rem 0;
 }
 /* navbar ends */
@@ -144,7 +144,7 @@ header .navbar ul li a:hover{
     padding: 1rem;
     color: #fff;
     border-radius: .5rem;
-    border-bottom: .5rem solid #011aff;
+    border-bottom: .5rem solid #13631A;
   }
   .fa-times{
     transform: rotate(180deg);
@@ -273,7 +273,7 @@ header .navbar ul li a:hover{
   border-radius: .5em;
   transition: 0.5s;
   color: #fff;
-  background: #2506ad;
+  background: #13631A;
   box-shadow: 0px 5px 10px rgba(48, 68, 247, .6);
   text-align: center;
 }
@@ -288,7 +288,7 @@ header .navbar ul li a:hover{
   transition: 0.3s;
 }
 .morebtn .btn:hover{
-  background: #1a047e;
+  background: #13631A;
 }
 .morebtn .btn:hover i {
   transform: translateX(-8px);
