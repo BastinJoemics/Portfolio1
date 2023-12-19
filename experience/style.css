@@ -33,7 +33,7 @@ html::-webkit-scrollbar{
   width: .8rem;
 }
 html::-webkit-scrollbar-track{
-  background: rgb(100, 215, 104);
+  background: rgb(134, 232, 138);
 }
 html::-webkit-scrollbar-thumb{
   background: #13631A;
@@ -331,7 +331,7 @@ header .navbar ul li a:hover{
 .footer{
   min-height: auto;
   padding-top: 0;
-  background: rgb(9, 119, 16);
+  background: #13631A;
 }
 .footer .box-container{
   display: flex;
@@ -455,7 +455,7 @@ header .navbar ul li a:hover{
   padding: 1rem 1.5rem;
   font-size: 2rem;
   background: #ffae00;
-  color: rgb(1, 151, 3);
+  color: rgb(134, 232, 138);
   border-radius: 5rem;
   transition: 1s linear;
   z-index: 1000;
